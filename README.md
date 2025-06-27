@@ -8,3 +8,20 @@ appointments.
 
 The platform is designed to benefit patients, doctors, and admins by streamlining appointment scheduling, profile management, and communication — all through a user-friendly, 
 responsive interface.
+
+**Key Features** :
+-->Patient Portal Secure patient registration and login
+Search doctors by specialty, location, and availability
+Book, cancel, or reschedule appointments
+View appointment history and receive notifications
+Manage personal profile
+🩺 Doctor Portal
+Doctor registration and login
+Manage availability and appointment slots
+Access patient information and update statuses
+Maintain doctor profile and specialization
+🔐 General System Features
+Secure authentication and authorization using JWT
+Responsive and mobile-friendly UI
+Role-based access for patients and doctors
+Real-time feedback and user notifications
