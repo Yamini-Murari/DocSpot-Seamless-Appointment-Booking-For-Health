@@ -28,6 +28,7 @@ responsive interfaces.
   - Real-time feedback and user notifications
  
 **Technologies Used** :
+
 | Feature       | Technology Stack          |
 |---------------|-------------------------|
 | Frontend        |React.js, Redux, Axios, Ant Design, Bootstrap, Moment.js|
@@ -37,4 +38,13 @@ responsive interfaces.
 
 **Installation and Setup:**
 
-  - Clone the repository: 
+  - Clone the repository:
+  - Install dependencies: npm install
+  - Create a .env file in the root directory and set environment variables for database connection, authentication, and other configurations.
+  - start/connect the development server: npm start or npm run dev
+
+**Usage:**
+
+  - Open the application in your web browser (usually at http://localhost:5000).
+  - Register as a patient or doctor (or use login if available).
+  - Explore the features and functionality as needed.
