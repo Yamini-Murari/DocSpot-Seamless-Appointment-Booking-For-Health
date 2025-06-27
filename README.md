@@ -7,7 +7,7 @@ DocSpot is a full-stack web application developed using the MERN stack (MongoDB,
 appointments.
 
 The platform is designed to benefit patients, doctors, and admins by streamlining appointment scheduling, profile management, and communication — all through a user-friendly, 
-responsive interface.
+responsive interfaces.
 
 **Key Features** :
 * Patient Portal
@@ -26,3 +26,11 @@ responsive interface.
   - Responsive and mobile-friendly UI
   - Role-based access for patients and doctors
   - Real-time feedback and user notifications
+ 
+**Technologies Used** :
+| Feature       | Technology Stack          |
+|---------------|-------------------------|
+| Frontend        |React.js, Redux, Axios, Ant Design, Bootstrap, Moment.js|
+| Backend         | Node.js, Express.js              |
+| Database        | MongoDB ,MongoDB Atlas           |
+| Authentication  | JWT, bcrypt                      |
