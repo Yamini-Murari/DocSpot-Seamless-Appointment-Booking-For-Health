@@ -34,3 +34,7 @@ responsive interfaces.
 | Backend         | Node.js, Express.js              |
 | Database        | MongoDB ,MongoDB Atlas           |
 | Authentication  | JWT, bcrypt                      |
+
+**Installation and Setup:**
+
+  - Clone the repository: 
